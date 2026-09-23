@@ -1,0 +1,38 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*-checkpoint.ipynb
+
+# Backups e arquivos temporários
+*backup*
+*.bak
+*.tmp
+
+# IDE e Editores
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Sistema Operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Dados brutos volumosos (>100 MB, fora do padrão Git)
+data/dados_tuberculose.csv
+data/dados_treino.csv
+data/dados_teste.csv
+
+
+
